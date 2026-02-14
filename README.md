@@ -1,7 +1,5 @@
 # Conway's Game of Life 👾🍃🧨
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-
 Conway's **Game of Life** implemented entirely in **Bash**! This command-line version of the famous zero-player game simulates cellular automaton directly in your terminal. Watch patterns emerge, evolve, and sometimes fade into oblivion—right from your shell!
 
 ## Features ✨
