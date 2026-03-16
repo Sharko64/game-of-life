@@ -118,20 +118,6 @@ You can easily customize the rules or add new features by editing the `game-of-l
 
 To add a new starting pattern, modify the `initialize_grid` function in the script. You can define new patterns by specifying the coordinates of live cells.
 
-## Contributing 🤝
-
-We welcome contributions to this project! If you have ideas for improving the script or want to add new features, feel free to submit a pull request.
-
-### Steps to Contribute
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Submit a pull request with a clear explanation of the changes.
-
-## License ⚖️
-
-This project is licensed under the **GNU General Public License v3.0**. You are free to use, modify, and distribute this software, but any modifications or derivatives must also be open-sourced under the same license. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements 🙏
 
 Inspired by the original work of **John Conway** and his legendary **Game of Life**. Special thanks to the Bash community for the endless learning opportunities.
