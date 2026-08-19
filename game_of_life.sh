@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 ROWS=10	
 COLUMNS=26
@@ -66,5 +66,4 @@ function main
 
 main
 
-#DEBUG    
-echo -ne '\n\n»»»SOURCE CODE«««\n\n' ; nl $0
+# DEBUG `bash -x <script-name>`
