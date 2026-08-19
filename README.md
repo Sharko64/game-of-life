@@ -1,6 +1,9 @@
-# Conway's Game of Life 👾🍃🧨
+# Conway's Game of Life
 
-Conway's **Game of Life** implemented entirely in **Bash**! This command-line version of the famous zero-player game simulates cellular automaton directly in your terminal. Watch patterns emerge, evolve, and sometimes fade into oblivion—right from your shell!
+> Conway's Game of Life written in Bash 👾🍃🧨
+
+This command-line version of the famous zero-player game simulates cellular automaton directly in your terminal.
+Watch patterns emerge, evolve, and sometimes fade into oblivion—right from your shell!
 
 ## Features ✨
 
